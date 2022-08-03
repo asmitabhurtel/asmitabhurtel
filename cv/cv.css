@@ -1,0 +1,103 @@
+
+.heading1{ 
+display:flex;
+justify-content: center;
+font-size: 4rem;
+color: black;
+
+
+}
+hr{
+    height:1px;
+   
+    color: black;
+   
+}
+.heading2{ 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: rgb(197, 71, 71);
+    font-family:'Times New Roman', Times, serif  ;
+    /* background-color:  rgb(102, 104, 190); */
+}
+.heading3{ 
+    display:flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    /* background-color:  rgb(102, 104, 190); */
+
+}
+.fb{
+
+    height:10px;
+    width:10px;
+}
+.in{
+
+    height:15px;
+    width:15px;
+}
+
+body{
+    background-color: rgb(92, 140, 148);
+}
+.abc{
+    /* height: 250px; */
+    
+    display:block;
+    justify-content: center;
+    align-items:center;
+    /* background-color: aliceblue; */
+}
+.photo{
+height: 150px;
+width: 150px;
+
+}
+
+#personal-information{
+    /* top: 300px; */
+    font-family: cursive;
+    padding: 10px 10px;
+    background-color: white;
+    display: inline-block;
+    width: 400px;
+    height: 900px;
+}
+.profile {
+  
+  
+}
+
+.education{
+    font-size: 2rem;
+}
+.experience{
+    font-size: 2rem;
+}
+
+#education-experience{
+   background-color: rgb(92, 140, 148);
+
+     display: inline-block;
+    width: 850px;
+    height: 950px;
+align-items: center;
+    font-family: cursive;
+    padding: 10px 10px;
+}
+table{
+    display: inline-block;
+       text-align: justify;
+
+}
+th{
+    border:2px solid black;
+    border-radius: 5px;
+    }
+td{
+    border: 2px solid black;
+}
