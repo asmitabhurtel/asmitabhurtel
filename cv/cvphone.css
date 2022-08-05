@@ -1,8 +1,30 @@
 #personal-information{
-    background-color: aqua;
+    background-color: rgb(211, 223, 223);
+    width: 850px;
 }
 
-#education-experience{
-    background-color: aqua;
-   
+.heading2 {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
  }
+.heading3 {
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    
+ }
+footer{
+
+    display: block;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+header{
+    background-color: pink;
+}
+#education-experience{
+    background-color: rgb(159, 177, 177);
+}
