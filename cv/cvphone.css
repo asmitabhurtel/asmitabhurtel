@@ -1,20 +1,34 @@
 #personal-information{
     background-color: rgb(211, 223, 223);
-    width: 850px;
+    width: 340px;
 }
 
 .heading2 {
-    display: flex;
+    display:flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 3rem;
+       font-family:'Times New Roman', Times, serif  ;
+       color: white;
+    }
+    .heading3 {
+    display:flex;
     justify-content: center;
     font-size: 2rem;
     color: white;
+   
  }
-.heading3 {
-    display: flex;
-    justify-content: center;
-    font-size: 2rem;
-    color: white;
-    
+ .year{
+    font-size: 1rem;
+ }
+ .year1{
+    font-size: 1.5rem;
+ }
+ #myeducationandexperience{
+    background-color:rgb(156, 190, 190); 
+ }
+ #education-experience{
+    display: none;
  }
 footer{
 
@@ -24,7 +38,78 @@ footer{
 }
 header{
     background-color: pink;
+    font-size: 2rem;
 }
-#education-experience{
-    background-color: rgb(148, 163, 163);
-}
+
+
+
+.heading1{ 
+    display:flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: black;
+    
+    
+    }
+    hr{
+        height:1px;
+       
+        color: black;
+       
+    }
+   
+ .fb{
+    
+        height:10px;
+        width:10px;
+    }
+    .in{
+    
+        height:15px;
+        width:15px;
+    }
+    
+    body{
+        background-color: rgb(92, 140, 148);
+    }
+    .abc{
+        /* height: 250px; */
+        
+        display:block;
+        justify-content: center;
+        align-items:center;
+        /* background-color: aliceblue; */
+    }
+    .photo{
+    height: 150px;
+    width: 150px;
+    
+    }
+    
+   
+    .profile {
+      
+      
+    }
+    
+    .education{
+        font-size: 2rem;
+    }
+    .experience{
+        font-size: 2rem;
+    }
+    
+   
+    table{
+        display: inline-block;
+           text-align: justify;
+    
+    }
+    th{
+        border:2px solid black;
+        border-radius: 5px;
+        }
+    td{
+        border: 2px solid black;
+    }
+   
